@@ -1,7 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-add 1
-add 2
-this is dev
-
-creating a new branck is quick  and simple
+now this is featurel
